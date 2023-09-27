@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktikum1", "praktikum1\pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum2", "Praktikum2\Praktikum2.csproj", "{AE5B6122-639B-4A2D-B5FF-72866EFA64B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum3", "Praktikum3\Praktikum3.csproj", "{AD52DF72-4AD3-47BD-8CB9-7222D1317CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AE5B6122-639B-4A2D-B5FF-72866EFA64B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE5B6122-639B-4A2D-B5FF-72866EFA64B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE5B6122-639B-4A2D-B5FF-72866EFA64B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD52DF72-4AD3-47BD-8CB9-7222D1317CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD52DF72-4AD3-47BD-8CB9-7222D1317CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD52DF72-4AD3-47BD-8CB9-7222D1317CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD52DF72-4AD3-47BD-8CB9-7222D1317CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
